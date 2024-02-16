@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @David34720
+- 👋 Hi, I’m David Falcioni
 - 👀 I’m interested in Web dévelopment
 - 🌱 Currently learning HTML/CSS and soon JavaScript for full-stack development
 - 💡 Proficient in no-code development with Bubble.io
