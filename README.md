@@ -21,7 +21,7 @@ Après des années de regret de ne pas avoir poursuivi une carrière dans l'IT p
 ### 🛠️ **Projets et Réalisations**
 - **Gestion de Restaurants**: Gestion de grandes cuisines, direction d'entreprises de restauration
 - **Solutions IT**: Intégration de solutions informatiques dans la gestion quotidienne, création d'outils de gestion et d'analyse commerciale
-- **Formation**: Formation des collègues sur les logiciels internes
+- **Formation**: Formateur operationnel
 - **Catering en Ligne**: Création et gestion d'un service de restauration en ligne
 
 ### 🤝 **Qualités Personnelles**
